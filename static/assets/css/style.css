@@ -10898,5 +10898,21 @@ footer.style-9 {
   .career-details-page.style-5 .careers-positions-slider5 .swiper-button-prev {
     top: calc(100% - 60px); } }
 
+    .aNew {
+  text-decoration: none;
+}
+.floating_btn {
+  position: fixed;
+  bottom: 60px;
+  right: 0px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
 /* ======== */
 /* ======= */
