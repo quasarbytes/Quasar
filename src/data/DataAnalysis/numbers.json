@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/assets/img/icons/numbers/8.png",
+    "value": 150,
+    "operator": "+",
+    "title": "Project Delivered"
+  },
+  {
+    "image": "/assets/img/icons/numbers/9.png",
+    "value": 15,
+    "operator": "+",
+    "title": "Quality Team Members"
+  },
+  {
+    "image": "/assets/img/icons/numbers/10.png",
+    "value": 3,
+    "operator": "+",
+    "title": "Available Locations"
+  },
+  {
+    "image": "/assets/img/icons/numbers/11.png",
+    "value": 90,
+    "operator": "%",
+    "title": "Client Retention Rate"
+  }
+]

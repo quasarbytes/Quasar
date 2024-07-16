@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/assets/img/icons/serv_icons/211.png",
+    "icon": "fas fa-desktop",
+    "title": "UI/UX",
+    "description": "Crafting User-centric UI/UX elevates brands, drives engagement, fuels growth."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/222.png",
+    "icon": "fas fa-signal",
+    "title": "App Development",
+    "description": "Our expertise in mobile apps ensures engaging solutions, driving business success."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/233.png",
+    "icon": "fas fa-globe",
+    "title": "Website Development",
+    "description": "Engineering stellar web apps, where excellence meets digital ingenuity flawlessly."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/244.png",
+    "icon": "fas fa-users",
+    "title": "Digital Marketing",
+    "description": "Crafting dynamic marketing solutions, where strategic vision meets digital innovation seamlessly."
+  }
+]

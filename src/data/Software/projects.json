@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/assets/img/screenshots/web1.png",
+    "title": "S'Watch",
+    "description": "A watch Company"
+  },
+  {
+    "image": "/assets/img/screenshots/web2.png",
+    "title": "Diesel Fashion",
+    "description": "A fashion brand for Man"
+  },
+  {
+    "image": "/assets/img/screenshots/web3.jpg",
+    "title": "MyTube Player",
+    "description": "Audio streaming platform"
+  },
+  {
+    "image": "/assets/img/screenshots/web7.jpg",
+    "title": "DN Gaming",
+    "description": "A gaming website"
+  },
+  {
+    "image": "/assets/img/screenshots/web5.gif",
+    "title": "Rolls Royce",
+    "description": ""
+  },
+  {
+    "image": "/assets/img/screenshots/web8.jpg",
+    "title": "Levi's",
+    "description": "E-commerce"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "text": "At the forefront of development, design, and tech, we transform visions into stunning realities. Welcome to our world of limitless innovation.",
+  "links": [
+    { "href": "javascript:void(0)", "text": "Online Marketing" },
+    { "href": "javascript:void(0)", "text": "Technology" },
+    { "href": "javascript:void(0)", "text": "Business" },
+    { "href": "javascript:void(0)", "text": "Content strategy" },
+    { "href": "javascript:void(0)", "text": "Development" },
+    { "href": "javascript:void(0)", "text": "Advertising Strategy" }
+  ],
+  "links2": [
+    { "href": "javascript:void(0)", "text": "Game Development" },
+    { "href": "javascript:void(0)", "text": "Application Design" },
+    { "href": "javascript:void(0)", "text": "IT Solutions" },
+    { "href": "javascript:void(0)", "text": "Tecture & Pattern" },
+    { "href": "javascript:void(0)", "text": "Data Analysis" }
+  ],
+  "morePages": [
+    { "href": ".about-us", "text": "About Us" ,"height":150},
+    { "href": ".our-service", "text": "Our Services" ,"height":100},
+    { "href": ".portfolio", "text": "Portfolio" ,"height":100},
+    { "href": "javascript:void(0)", "text": "Contact" },
+    { "href": "javascript:void(0)", "text": "Privacy Policy" },
+    { "href": "javascript:void(0)", "text": "Terms of Use" }
+  ],
+  "morePages2": [
+    { "href": "javascript:void(0)", "text": "Terms Conditions" },
+    { "href": "javascript:void(0)", "text": "Join Us", "label": "hiring" },
+    { "href": "javascript:void(0)", "text": "Get In Touch" },
+    { "href": "javascript:void(0)", "text": "FAQ Page" }
+  ]
+}

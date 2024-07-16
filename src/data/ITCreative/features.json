@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "image": "/assets/img/icons/fe111.png",
+    "title": {
+      "part1": "Efficiency &",
+      "part2": "Management"
+    }
+  },
+  {
+    "id": "02",
+    "image": "/assets/img/icons/fe222.png",
+    "title": {
+      "part1": "UX/UI Design &",
+      "part2": "App Design"
+    }
+  },
+  {
+    "id": "03",
+    "image": "/assets/img/icons/fe333.png",
+    "title": {
+      "part1": "Trending Design ",
+      "part2": "Experience."
+    }
+  },
+  {
+    "id": "04",
+    "image": "/assets/img/icons/fe444.png",
+    "title": {
+      "part1": "Commitment & ",
+      "part2": "Professional"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What does your software company specialize in?",
+    "answer": {
+      "part1": "Picture us as the software sorcerers, wielding keyboards like magic wands and conjuring up digital delights! From web enchantments to app alchemy, we blend code like a mad scientist mixing potions.",
+      "part2": "So, fear not, for with our technical wizardry, your digital dreams are in safe, albeit slightly quirky, hands!"
+    }
+  },
+  {
+    "id": 2,
+    "question": "How Do I Organize My Notes?",
+    "answer": {
+      "part1": "Through the collaboration with customers in discussing needs and demand, we're able to attain ",
+      "part2": " mutual understanding, gain customer trust to offer appropriate advice"
+    }
+  },
+  {
+    "id": 3,
+    "question": "How Long For A Standard Project",
+    "answer": {
+      "part1": "Through the collaboration with customers in discussing needs and demand, we're able to attain ",
+      "part2": " mutual understanding, gain customer trust to offer appropriate advice"
+    }
+  },
+  {
+    "id": 4,
+    "question": "How About Data Security & NDA Agreement",
+    "answer": {
+      "part1": "Through the collaboration with customers in discussing needs and demand, we're able to attain ",
+      "part2": " mutual understanding, gain customer trust to offer appropriate advice"
+    }
+  },
+  {
+    "id": 5,
+    "question": "What does your software company specialize in?",
+    "answer": {
+      "part1": "Picture us as the software sorcerers, wielding keyboards like magic wands and conjuring up digital delights! From web enchantments to app alchemy, we blend code like a mad scientist mixing potions. So, fear not, for with our technical wizardry, your digital dreams are in safe, albeit slightly quirky, hands!"
+    }
+  },
+  {
+    "id": 6,
+    "question": "What industries do you serve?",
+    "answer": {
+      "part1": "We cater to a diverse range of industries, from fintech fortresses to e-commerce empires. Consider us the Swiss Army knives of software, ready to tackle any industry challenge with flair and finesse."
+    }
+  },
+  {
+    "id": 7,
+    "question": "What is your development process like?",
+    "answer": {
+      "part1": "Our development process is a flavorful fusion, mixing Agile, Scrum, and Waterfall methodologies like a master chef crafting a signature dish. We embrace the flexibility of Agile, the structure of Scrum, and the depth of Waterfall, creating a recipe for success."
+    }
+  },
+  {
+    "id": 8,
+    "question": "Do you offer ongoing support and maintenance services?",
+    "answer": {
+      "part1": "Ah, the age-old question of ongoing support and maintenance! Fear not, for we're like the digital fairy godmothers of your software dreams, waving our wands of code optimization and sprinkling glittery patches of bug fixes. Our team of tech ninjas is on standby, ready to leap into action faster than a caffeinated kangaroo on a coding rampage. With our expertise in the arcane arts of software sorcery, we'll keep your digital fortress fortified against the forces of chaos and glitches."
+    }
+  }
+]
