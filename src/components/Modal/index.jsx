@@ -37,7 +37,7 @@ const ModalAndToast = ({ setShowModal }) => {
       setLoading(true);
       $.ajax({
         type: "POST",
-        url: "https://connect.quasarbytes.com:4001/connect/quasarConnect",
+        url: "https://p0ol4bcq19.execute-api.ap-south-1.amazonaws.com/dev/connect/quasarConnect",
         data: $("#contact-form").serialize(),
         cache: false,
         crossDomain: true,
