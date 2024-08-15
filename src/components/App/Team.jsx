@@ -7,7 +7,6 @@ const Team = () => {
       <div className="content">
         <div className="container">
           <div className="section-head text-center style-4 mb-60">
-            <small className="title_small">The Team Work</small>
             <h2 className="mb-20">Our <span>Leaders</span> </h2>
             <p>The Professional Creative Team for Growth-up Works</p>
           </div>
@@ -19,18 +18,18 @@ const Team = () => {
                     <div className="img img-cover">
                       <img src={member.picture} alt="" />
                       <div className="social-icons">
-                        <a href="#" className="me-1">
+                        {/* <a href="#" className="me-1">
                           <i className="fab fa-twitter"></i>
                         </a>
                         <a href="#" className="me-1">
                           <i className="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#" className="me-1">
+                        </a> */}
+                        <a href={member?.linkedIn} target='_blank' className="me-1">
                           <i className="fab fa-linkedin-in"></i>
                         </a>
-                        <a href="#">
+                        {/* <a href="#">
                           <i className="fab fa-github"></i>
-                        </a>
+                        </a> */}
                       </div>
                     </div>
                     <div className="info">

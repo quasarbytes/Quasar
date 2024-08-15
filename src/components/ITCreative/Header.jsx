@@ -53,7 +53,7 @@ const Header = ({secondaryPage}) => {
               </div>
               <div className="col-lg-6">
                 <div className="img mt-4 mt-lg-0">
-                  <img loading="eager" src="/assets/img/header/head_img71.png" alt="" />
+                  <img loading="eager" src="/assets/img/header/team4.png" alt="" />
                   <img src="/assets/img/header/head7_rock2.png" alt="" className="rock7 slide_up_down" />
                 </div>
               </div>

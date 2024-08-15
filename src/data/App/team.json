@@ -1,22 +1,26 @@
 [
   {
-    "picture": "/assets/img/team/1.jpeg",
-    "name": "Michael Edwards",
-    "position": "CEO Founder"
+    "picture": "/assets/img/team/shadab.jpg",
+    "name": "Shadab Hussain",
+    "position": "Founder & CEO",
+    "linkedIn":"https://www.linkedin.com/in/oye-shadab/"
   },
   {
-    "picture": "/assets/img/team/5.jpeg",
-    "name": "Bobby Kane",
-    "position": "CTO"
+    "picture": "/assets/img/team/deepak.jpg",
+    "name": "Deepak Jain",
+    "position": "Senior Software Engineer",
+    "linkedIn":"https://www.linkedin.com/in/deepak-jain-73261b188/"
   },
   {
-    "picture": "/assets/img/team/3.jpeg",
-    "name": "Robert Downey Jr",
-    "position": "Project Manager"
+    "picture": "/assets/img/team/anas.jpg",
+    "name": "Anas Baig",
+    "position": "Backend Engineer",
+    "linkedIn":"https://www.linkedin.com/in/anas-geek/"
   },
   {
-    "picture": "/assets/img/team/4.jpeg",
-    "name": "Andrew Robertson",
-    "position": "Marketing Leader"
+    "picture": "/assets/img/team/ashraf.jpg",
+    "name": "Gulam Ashraf",
+    "position": "UI/UX Designer",
+    "linkedIn":"https://www.linkedin.com/in/gulam-ashraf/"
   }
 ]

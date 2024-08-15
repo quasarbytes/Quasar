@@ -15,6 +15,7 @@ import FAQ from 'components/App/FAQ';
 import Whatsapp from 'components/whatsapp'
 import Projects from 'components/Software/Projects';
 import About from 'components/ITCreative/About';
+import Team from 'components/App/Team.jsx'
 
 const HomeItSolutions2 = () => {
   const navbarRef = React.useRef(null);
@@ -33,6 +34,7 @@ const HomeItSolutions2 = () => {
           <Integration integrations={aboutData?.integrations}/>
         </section>
         <Services />
+        <Team/>
         <Testimonials />
         <FAQ />
         <ChatBanner />

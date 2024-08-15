@@ -24,7 +24,8 @@ import Screenshots from 'components/App/Screenshots';
 import Modal from 'components/Modal/index.jsx'
 import aboutData from 'data/App/about.json';
 import FAQ from 'components/App/FAQ';
-import Whatsapp from 'components/whatsapp'
+import Whatsapp from 'components/whatsapp';
+import Team from 'components/App/Team.jsx'
 const HomeItSolutions2 = () => {
   const navbarRef = React.useRef(null);
 
@@ -50,6 +51,7 @@ const HomeItSolutions2 = () => {
         <Services />
 
         {/* <Projects /> */}
+        <Team/>
         <Testimonials />
         <FAQ />
 

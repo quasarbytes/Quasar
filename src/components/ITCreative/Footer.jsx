@@ -95,15 +95,23 @@ const Footer = () => {
                               footerData.morePages.map((link, i) => (
                                 <li key={i}>
                                   <a
-                                  onClick={() => scrollToComponent(link.href,link?.height)}
-                                   href={"javascript:void(0)"}
+                                  onClick={() => {
+                                    if(link?.href == "/privacy-policy" ||  link?.href == "/terms-of-use"){
+                                      scrollToComponent(link.href,link?.height)
+                                    }
+                                    else{
+                                      
+                                    }
+                                  }
+                                }
+                                   href={(link?.href == "/privacy-policy" ||  link?.href == "/terms-of-use") ?link?.href:'javascript:void(0)'}
                                   >{ link.text }</a>
                                 </li>
                               ))
                             }
                           </ul>
                         </div>
-                        <div className="col-lg-6">
+                        {/* <div className="col-lg-6">
                           <ul className="links">
                             { 
                               footerData.morePages2.map((link, i) => (
@@ -113,7 +121,7 @@ const Footer = () => {
                               ))
                             }
                           </ul>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                   </div>

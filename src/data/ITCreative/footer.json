@@ -20,8 +20,8 @@
     { "href": ".our-service", "text": "Our Services" ,"height":100},
     { "href": ".portfolio", "text": "Portfolio" ,"height":100},
     { "href": "javascript:void(0)", "text": "Contact" },
-    { "href": "javascript:void(0)", "text": "Privacy Policy" },
-    { "href": "javascript:void(0)", "text": "Terms of Use" }
+    { "href": "/privacy-policy", "text": "Privacy Policy" },
+    { "href": "/terms-of-use", "text": "Terms of Use" }
   ],
   "morePages2": [
     { "href": "javascript:void(0)", "text": "Terms Conditions" },

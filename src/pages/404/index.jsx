@@ -22,7 +22,7 @@ const Page404 = () => {
 export const Head = () => {
   return (
     <>
-      <title>Quasar Bytes - 404</title>
+      <title>404</title>
       <link rel="stylesheet" href="/assets/css/lib/bootstrap.min.css" />
       <link rel="stylesheet" href="/assets/css/style.css" />
     </>
